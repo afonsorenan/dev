@@ -113,6 +113,9 @@ h2.titulo {
 .habilidades .habs:nth-child(5) img{
   height: 6rem;
 }
+.habilidades .habs:nth-child(6) img{
+  height: 7rem;
+}
 .lock {
   color: var(--violeta);
 }
