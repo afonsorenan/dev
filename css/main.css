@@ -110,6 +110,9 @@ h2.titulo {
   height: 8rem;
   margin-top: 2rem;
 }
+.habilidades .habs:nth-child(5) img{
+  height: 6rem;
+}
 .lock {
   color: var(--violeta);
 }
